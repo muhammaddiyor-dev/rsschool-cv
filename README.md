@@ -1,1 +1,1 @@
-CV. Markdown & Git https://muhammaddiyor.github.io/rsschool-cv/cv
+CV. Markdown & Git https://muhammaddiyor-dev.github.io/rsschool-cv/cv
